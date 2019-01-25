@@ -1,0 +1,13 @@
+.container {
+    width: 1000px;
+    margin: 0;
+    background: gray;
+}
+.detail {
+    background: rosybrown;
+}
+.avatar {
+    height: 120px;
+    width: 100px;
+    background: goldenrod;
+}
